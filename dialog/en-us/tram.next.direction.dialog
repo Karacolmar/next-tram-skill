@@ -1,0 +1,3 @@
+The next tram leaves (for | to | ) {direction} in {timemins} minutes.
+You can take the next tram (for | to | ) {direction} in {timemins} minutes.
+You only have to wait {timemins} minutes for the next tram (to | ) {direction}.
